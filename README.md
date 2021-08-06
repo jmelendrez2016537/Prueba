@@ -1,6 +1,6 @@
 # Prueba
 
-Para poder correr los taks necesita de Visual Studio Code, NodeJS y Postman.
+Para poder correr los taks necesita de Visual Studio Code, NodeJS, MongoDB y Postman.
 
 Al estar en Visual Studio Code debe de correr el codigo a traves de la consola, tan solo con el comando "npm start".
 
